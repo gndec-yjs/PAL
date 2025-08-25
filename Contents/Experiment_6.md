@@ -83,7 +83,16 @@ To perform non-linear analysis of reinforced concrete (RC) structural components
 * Critical observations from software analysis compared with theory.
 * Recommendations for reinforcement or structural improvements.
 
-## 10. Viva Questions *(Sample – for reference only)*
+## 10. References / Suggested Reading
+
+- ATENA User Manuals (Červenka Consulting)  
+- ATENA Engineering 3D Tutorial PDF: [https://www.cervenka.cz/assets/files/atena-pdf/ATENA-Engineering-3D_Tutorial.pdf](https://www.cervenka.cz/assets/files/atena-pdf/ATENA-Engineering-3D_Tutorial.pdf)  
+- Selected journal papers on non-linear analysis of RC members  
+
+*Note:* Students can add additional references from textbooks, IS codes, and research articles related to non-linear modeling and analysis.
+
+
+## 11. Viva Questions *(Sample: for reference only - Do not write in the final report)*
 
 1. What is non-linear analysis and why is it important for RC structures?
 2. How does ATENA simulate crack propagation and material non-linearity?
