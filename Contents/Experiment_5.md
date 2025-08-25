@@ -78,7 +78,17 @@ To perform structural health monitoring and non-destructive testing (NDT) on RC 
 * Preventive maintenance suggestions.
 * Reference to IS codes and literature for validation.
 
-## 9. Viva Questions *(Sample – for reference only)*
+## 9. References / Suggested Reading
+
+- Rebound Hammer Test – IS 516 (Part 5/Sec 4): 2020  
+- Ultrasonic Pulse Velocity (UPV) Test – IS 516 (Part 5/Sec 1): 2018  
+- Half-Cell Potential Measurement – IS 516 (Part 5/Sec 2): 2021  
+- “Non-Destructive Testing of Concrete” – P. Perumpral  
+- NDT method manuals
+  
+*Note:* Students should include additional references or manuals relevant to the NDT methods used in their experiments, and consult literature/case studies for deeper understanding.
+
+## 10. Viva Questions *(Sample: for reference only - Do not write in the final report)*
 
 1. What is structural health monitoring, and why is it important?
 2. How does the rebound hammer test indicate concrete strength?
