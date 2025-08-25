@@ -11,7 +11,7 @@ Follow a structured workflow for all experiments:
 - **Stage 3 (Experiment 6):** Non-linear analysis using ATENA  
 - **Stage 4:** Synthesis of observations, tests, and analysis into a final report  
 
-**View Detailed Workflow:** [Lab_Workflow.md](Lab_Workflow.md)
+**To View Detailed Workflow:** [**Click Here**](Lab_Workflow.md)
 
 ## 2. Reports & Submission
 
@@ -21,7 +21,7 @@ Follow a structured workflow for all experiments:
 - PDF submission via **GitHub repository**  
 - Naming convention: `Experiment_X_YourName_RollNo.pdf`  
 
-**View Full Report Guidelines:** [Report_Guidelines.md](Report_Guidelines.md)
+**To View Full Report Guidelines:** [**Click Here**](Report_Guidelines.md)
 
 ## 3. Experiments
 
