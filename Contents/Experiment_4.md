@@ -80,7 +80,16 @@ Settlement refers to the downward movement of a structure or its components due 
 * Suggested remedial and preventive strategies.
 * Reference to IS codes and case studies for validation.
 
-## 10. Viva Questions *(Sample – for reference only)*
+## 10. References / Suggested Reading
+
+- IS 456:2000 – Code of Practice for Plain and Reinforced Concrete  
+- IS 1904 – Code of Practice for Foundation Design  
+- “Foundation Engineering Handbook” – Hsai-Yang Fang  
+- Case studies on settlement of buildings  
+
+*Note:* Students can include additional references from IS codes, papers, or books relevant to settlement issues.
+
+## 10. Viva Questions *(Sample: for reference only - Do not write in the final report)*
 
 1. What are the different types of settlement in buildings?
 2. What are the common causes of differential settlement?
