@@ -4,7 +4,8 @@
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 🚨 The due date for Stage 1 Presentation (Experiments 1–4) – September 01, 2025 (Monday), 11:59 PM. [Click here for guidelines](https://gndec-yjs.github.io/PAL/Contents/Guidelines.html)
-</span>
+</span>  
+
 
 ![PAL](Contents/Images/PAL.png)
 
