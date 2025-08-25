@@ -2,7 +2,9 @@
 
 | **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[IS Codes](Contents/Codes.md)** | **[Contact](Contents/Contact.md)** | 
 
-**🚨 The due date for Stage 1 Presentation (Experiments 1–4) – September 01, 2025 (Monday), 11:59 PM.** [Click here for guidelines]([https://gndec-yjs.github.io/BMT/Contents/Assignment_2025/1.html](https://gndec-yjs.github.io/PAL/Contents/Guidelines.html)
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 The due date for Stage 1 Presentation (Experiments 1–4) – September 01, 2025 (Monday), 11:59 PM. [Click here for guidelines](https://gndec-yjs.github.io/PAL/Contents/Guidelines.html)
+</span>
 
 ![PAL](Contents/Images/PAL.png)
 
