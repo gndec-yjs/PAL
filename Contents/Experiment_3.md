@@ -64,7 +64,15 @@ Deflection in structural members refers to the displacement of a member under lo
 * Suggested remedies and preventive strategies.
 * Insights from related case studies.
 
-## 9. Viva Questions *(Sample – for reference only)*
+## 9. References / Suggested Reading
+
+- IS 456:2000 – Section on Serviceability & Deflection Limits  
+- “Structural Analysis” – R.C. Hibbeler  
+- Journal papers on deflection behavior of beams and slabs  
+
+*Note:* Students are encouraged to add more references based on their observations and literature review.
+
+## 10. Viva Questions *(Sample: for reference only - Do not write in the final report)*
 
 1. What are the permissible limits of deflection in beams as per IS 456?
 2. How does creep and shrinkage influence deflection in RCC members?
