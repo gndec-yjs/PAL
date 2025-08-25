@@ -1,6 +1,6 @@
 # Problem Analysis Laboratory _(Structural Engineering)_
 
-| **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[IS Codes](Contents/Codes.md)** | **[Contact](Contents/Contact.md)** | 
+| **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[IS Codes](Contents/Codes.md)** | **[Contact](Contents/Contact.md)** | 
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 🚨 The due date for submitting Assignment 1 is August 30, 2025 (Saturday), by 11:59 PM. - [Click Here](https://gndec-yjs.github.io/BMT/Contents/Assignment_2025/1.html)
