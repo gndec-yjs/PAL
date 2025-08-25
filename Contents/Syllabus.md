@@ -15,8 +15,6 @@
 
 **Additional Material Allowed in ESE:** NIL  
 
----
-
 ### **On completion of the course, the student will have the ability to:**  
 
 | **CO#** | **Course Outcomes** |
