@@ -81,8 +81,17 @@ To study and identify the occurrence of corrosion in reinforced concrete (RC) co
   * Possible reasons for corrosion occurrence.
   * Suggested remedial and preventive measures.
   * Code-based recommendations and learnings from literature/case studies.
+ 
+## 10. References / Suggested Reading
 
-## 10. Viva Questions *(Sample – for reference only)*
+- IS 456:2000 – Code of Practice for Plain and Reinforced Concrete  
+- “Handbook on Repair and Rehabilitation of RCC Buildings” – CPWD, Govt. of India  
+- Selected journal papers on crack diagnosis in RC structures  
+
+*Note:* These references are for guidance. Students are encouraged to explore additional books, IS codes, and case studies relevant to the observed cracks.
+
+
+## 11. Viva Questions *(Sample: for reference only - Do not write in the final repor)*
 
 1. What are the main causes of corrosion in RC structures?
 2. How does carbonation contribute to reinforcement corrosion?
