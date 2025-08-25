@@ -1,19 +1,50 @@
-# 📝 Guidelines: Problem Analysis Laboratory
+# Lab Workflow & Stages
 
-This lab focuses on identifying, analyzing, and treating structural defects commonly observed in real-world civil engineering practice. The approach combines **visual inspection, hands-on practice with diagnostic tools, and systematic reporting**.
+This page provides an overview of the **Problem Analysis Laboratory (LPECE-102)**, including the purpose, learning outcomes, and stage-wise workflow for completing all experiments.
 
-The work is structured in **stages**, guiding you from observation to problem quantification and proposed solutions.
+## 1. Introduction / Overview
+
+The **Problem Analysis Laboratory** is designed to train students in identifying, analyzing, and suggesting solutions for structural defects commonly observed in real-world civil engineering practice. The lab combines:
+
+* **Visual inspection and documentation**
+* **Hands-on practice with basic monitoring and testing techniques**
+* **Analytical modeling and software-based evaluation**
 
 ---
 
-## 🔹 Stage 1: Visual Survey & Documentation (Experiments 1–4)
+## 2. General Purpose of the Lab
+
+* Develop skills to **recognize different types of structural defects** such as cracks, corrosion, deflection, and settlement.
+* Understand **possible causes** of deterioration and suggest appropriate **treatment or preventive measures**.
+* Learn to **quantify defects** using simple monitoring tools and NDT methods.
+* Apply **engineering analysis and software modeling** (ATENA) to evaluate the effect of defects on structural performance.
+* Integrate observations, test results, and analysis into a **comprehensive problem analysis report**.
+
+---
+
+## 3. Learning Outcomes
+
+On completion of this lab, students will be able to:
+
+1. Identify and document cracks, corrosion, deflection, and settlement in structures.
+2. Analyze possible reasons for observed defects.
+3. Suggest suitable treatment or preventive measures for structural problems.
+4. Conduct basic structural health monitoring and use NDT techniques.
+5. Perform non-linear analysis of RC structural components using ATENA.
+6. Compile a complete lab report integrating field observations, test data, and analytical evaluation.
+
+---
+
+## 4. Stage-wise Workflow
+
+### Stage 1: Visual Survey & Documentation (Experiments 1–4)
 
 **Objective:**
-Develop the ability to recognize, record, and analyze visible signs of structural distress in nearby buildings or campus structures.
+Develop the ability to **recognize, record, and analyze visible signs of structural distress** in nearby buildings or campus structures.
 
 **Tasks for Students:**
 
-* Capture **self-taken photographs** of the following defects as per syllabus:
+* Capture **self-taken photographs** of the following defects:
 
   1. **Cracks** in walls, beams, slabs, or columns.
   2. **Corrosion of RC components** (rust stains, spalling, exposed reinforcement).
@@ -22,30 +53,39 @@ Develop the ability to recognize, record, and analyze visible signs of structura
 
 * For each observation:
 
-  * Note down **location & context**.
-  * Identify **possible causes** (material degradation, design flaws, poor maintenance, etc.).
-  * Suggest **preventive and corrective measures** (repair methods, materials, control strategies).
+  * Note **location & context**.
+  * Identify **possible causes** (material degradation, design flaws, poor maintenance).
+  * Suggest **preventive or corrective measures** (repair methods, materials, control strategies).
 
-📌 *In this way, Experiments 1–4 will be completed simultaneously as part of your personal field documentation portfolio.*
+📌 *Experiments 1–4 will be completed simultaneously as part of your personal field documentation portfolio.*
 
 ---
 
-## 🔹 Stage 2: Structural Health Monitoring & Quantification (Experiment 5)
+### Stage 2: Structural Health Monitoring & Quantification (Experiment 5)
 
 **Objective:**
-Move beyond visual inspection by applying **basic monitoring and testing techniques** to quantify the extent of deterioration.
+Move beyond visual inspection by applying **basic monitoring and testing techniques** to quantify deterioration.
 
 **Instructor Demonstration + Student Practice:**
 
 * Introduction to **Structural Health Monitoring (SHM)** concepts.
-* Demonstration of **Non-Destructive Testing (NDT) methods** (such as rebound hammer, ultrasonic pulse velocity, half-cell potential, cover meter, moisture meter, crack width gauges, etc.).
-* Hands-on practice by students on selected structural elements within campus.
+
+* Demonstration of **Non-Destructive Testing (NDT) methods**, such as:
+
+  * Rebound Hammer
+  * Ultrasonic Pulse Velocity (UPV)
+  * Half-Cell Potential Test
+  * Cover Meter
+  * Moisture Meter
+  * Crack Width Gauges
+
+* Hands-on practice by students at selected locations.
 
 **Student Role:**
 
 * Record readings at identified defect locations.
 * Compare findings with visual observations.
-* Compile results into a **Defect Diagnosis Sheet**:
+* Compile results into a **Defect Diagnosis Sheet**, including:
 
   * Type of defect
   * Possible cause
@@ -54,23 +94,28 @@ Move beyond visual inspection by applying **basic monitoring and testing techniq
 
 ---
 
-## 🔹 Stage 3: Analytical Problem Solving (Experiment 6)
+### Stage 3: Analytical Problem Solving (Experiment 6)
 
 **Objective:**
-Apply **engineering analysis and modeling tools** to study defects in a more systematic way.
+Apply **engineering analysis and modeling tools** to study defects in a systematic way.
 
 **Tasks:**
 
-* Follow instructor’s tutorial on the selected analysis software/tool.
+* Follow instructor’s tutorial on ATENA software.
 * Model a structural component or problem scenario (e.g., cracked beam, corroded slab section).
-* Evaluate the effect of deterioration on performance parameters (load-carrying capacity, stiffness, serviceability).
+* Evaluate effects of deterioration on **performance parameters** such as load-carrying capacity, stiffness, and serviceability.
 * Document outcomes as a **technical case study**.
 
-📌 *This stage runs in parallel with Stage 1 & Stage 2 — students are expected to begin practicing with tutorials early and progressively build their analysis case study.*
+📌 *Students are expected to begin practicing with ATENA tutorials early and progressively build their analytical case study in parallel with Stage 1 & Stage 2.*
+
+**Useful Links for ATENA:**
+
+* [ATENA Documentation](https://www.cervenka.cz/products/atena/documentation/)
+* [ATENA Engineering 3D Tutorial PDF](https://www.cervenka.cz/assets/files/atena-pdf/ATENA-Engineering-3D_Tutorial.pdf)
 
 ---
 
-## 🔹 Stage 4: Synthesis & Reporting
+### Stage 4: Synthesis & Reporting
 
 **Objective:**
 Integrate all observations, testing data, and analytical insights into a **comprehensive problem analysis report**.
@@ -81,16 +126,7 @@ Integrate all observations, testing data, and analytical insights into a **compr
 * **Cause–Effect–Treatment chart** for each defect type.
 * **NDT & monitoring results** with interpretations.
 * **Analytical case study report** (software-based evaluation).
-* **Final compiled lab manual submission** (Experiment 1–6).
-
----
-
-## 📌 General Instructions
-
-* All field data, photos, and readings must be **self-collected** — plagiarism will not be tolerated.
-* Reports should be neatly compiled in the **prescribed format** (to be shared).
-* Safety precautions must be followed during site visits and testing.
-* Submission deadlines will be communicated on the course homepage.
+* **Final compiled lab manual submission** (Experiments 1–6).
 
 ---
 
