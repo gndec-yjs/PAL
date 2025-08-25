@@ -59,7 +59,15 @@ Students are encouraged to explore case studies from research literature to unde
 * Remedial and preventive measures recommended.
 * Cross-reference to IS codes and related case studies.
 
-## 9. Viva Questions *(Sample – for reference only)*
+## References / Suggested Reading
+
+- IS 456:2000 – Code of Practice for Plain and Reinforced Concrete  
+- “Handbook on Repair and Rehabilitation of RCC Buildings” – CPWD, Govt. of India  
+- Selected journal papers on crack diagnosis in RC structures  
+
+*Note:* These references are for guidance. Students are encouraged to explore additional books, IS codes, and case studies relevant to the observed cracks.
+
+## 9. Viva Questions *(Sample – for reference only - Do not write in the final report)*
 
 1. What are the main types of cracks observed in buildings?
 2. How do structural cracks differ from non-structural cracks?
