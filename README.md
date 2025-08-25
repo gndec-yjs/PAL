@@ -6,6 +6,15 @@
 🚨 The due date for Stage 1 Presentation (Experiments 1–4) – September 01, 2025 (Monday), 11:59 PM. [Click here for guidelines](https://gndec-yjs.github.io/PAL/Contents/Guidelines.html)
 </span>  
 
+<style>
+@keyframes blinker {
+  50% { opacity: 0; }
+}
+</style>  
+
+<span style="color:blue; font-weight:bold;">
+  <span class="flash">[All Notifications](Contents/Notifications.md)</span>
+</span>
 
 ![PAL](Contents/Images/PAL.png)
 
