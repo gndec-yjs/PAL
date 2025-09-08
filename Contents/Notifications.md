@@ -6,10 +6,11 @@
 ## 📢 Current Announcements
 
 - **Stage 1 Presentation / Assignment 1 Submission**  
-  All students must **submit their Stage 1 Presentation** (Experiments 1–4: Visual Survey of Defects) by **September 01, 2025 (Monday) 11:59 PM** - [Click here for guidelines](https://gndec-yjs.github.io/PAL/Contents/Guidelines.html)
+ All students must **submit their Stage 1 Presentation** (Experiments 1–4: Visual Survey of Defects) by ~~September 01, 2025 (Monday) 11:59 PM~~ ➝ **September 15, 2025 (Monday) 11:59 PM** – [Click here for guidelines](https://gndec-yjs.github.io/PAL/Contents/Guidelines.html)
 
-  Late submissions **will not be accepted**, so plan accordingly.  
-  Ensure all photographs are **properly captured, labelled, captioned, and numbered**, and the presentation is **typed**.
+Late submissions **will not be accepted**, so plan accordingly.  
+Ensure all photographs are **properly captured, labelled, captioned, and numbered**, and the presentation is **typed**.
+
 
 ---
 
