@@ -2,20 +2,23 @@
 
 ## List of Experiments
 
+- [**Experiment 0: Defect Mapping and Condition Survey of GNDEC Campus Buildings**](Experiment_0.md)  
+Defect mapping of different GNDEC campus buildings, followed by analysis to identify possible reasons and to find appropriate treatment strategies.
+
 - [**Experiment 1: Study of Cracks in Buildings**](Experiment_1.md)  
-To identify cracks in different buildings, followed by analysis to identify their possible reasons and to find appropriate treatment strategies.
+Identification and analysis of different types of cracks in buildings, with possible reasons and appropriate remedial measures.
 
 - [**Experiment 2: Study of Corrosion in RC Components**](Experiment_2.md)  
-Corrosion of RC components, its identification, background causes and remedial measures based on analysis.
+Visual detection of corrosion in RC elements, investigation of causes, and study of possible treatment methods.
 
 - [**Experiment 3: Study of Deflection in Structural Members**](Experiment_3.md)  
-Observation of deflection, problem identification and treatment strategies.
+Observation and measurement of deflection in beams or slabs, with diagnosis of problems and solutions.
 
 - [**Experiment 4: Study of Settlement in Structures**](Experiment_4.md)  
-Settlement of a structure, its causes, and measures to control it.
+Identification of structural settlement, its underlying causes, and methods to minimize or control it.
 
 - [**Experiment 5: Structural Health Monitoring & NDT**](Experiment_5.md)  
-Structural health monitoring, problem identification, and quantification of distress using non-destructive testing methods.
+Evaluation of structural condition using non-destructive testing methods for quantification and diagnosis of distress.
 
 - [**Experiment 6: Analysis of RC Structural Components using Software**](Experiment_6.md)  
-Analysis of RC structural components using non-linear analysis software.
+Computer-based analysis of reinforced concrete members using non-linear analysis techniques and tools.
