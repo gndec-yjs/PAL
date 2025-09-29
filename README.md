@@ -2,7 +2,7 @@
 
 | **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[IS Codes](Contents/Codes.md)** | **[Contact](Contents/Contact.md)** | 
 
-**Notifications**
+**[Notifications](https://gndec-yjs.github.io/PAL/)**
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 🚨 Experiment 0 ➝ Due Date: October 3, 2025 (Friday), 11:59 PM.  - [Click here to submit Experiment 0](https://forms.gle/Zypd8xLm1s4rauiv6)
