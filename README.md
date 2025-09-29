@@ -3,8 +3,21 @@
 | **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[IS Codes](Contents/Codes.md)** | **[Contact](Contents/Contact.md)** | 
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
-🚨 The due date for Stage 1 Presentation (Experiments 1–4) – ~~September 01, 2025 (Monday), 11:59 PM~~ ➝ September 15, 2025 (Monday), 11:59 PM. [Click here for guidelines](https://gndec-yjs.github.io/PAL/Contents/Guidelines.html)
+🚨 Submission Notification  
+
+- Experiment 0 ➝ Due Date: October 3, 2025 (Friday), 11:59 PM.  
+  <a href="LINK_FOR_EXPERIMENT_0" style="color:blue; text-decoration:underline;">Click here to submit Experiment 0</a>  
+
+- Experiments 1–4 ➝ Due Date: October 3, 2025 (Friday), 11:59 PM.  
+  <a href="LINK_FOR_EXPERIMENTS_1_TO_4" style="color:blue; text-decoration:underline;">Click here to submit Experiments 1–4</a>  
 </span>
+
+<style>
+@keyframes blinker {
+  50% { opacity: 0; }
+}
+</style>
+
 
 
 <style>
