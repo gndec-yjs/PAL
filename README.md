@@ -3,12 +3,17 @@
 | **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[IS Codes](Contents/Codes.md)** | **[Contact](Contents/Contact.md)** | 
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
-🚨 Submission Notification  
-- Experiment 0 ➝ Due Date: October 3, 2025 (Friday), 11:59 PM.  
-  <a href="LINK_FOR_EXPERIMENT_0" style="color:blue; text-decoration:underline;">Click here to submit Experiment 0</a>  
-- Experiments 1–4 ➝ Due Date: October 3, 2025 (Friday), 11:59 PM.  
-  <a href="LINK_FOR_EXPERIMENTS_1_TO_4" style="color:blue; text-decoration:underline;">Click here to submit Experiments 1–4</a>  
+🚨 Notifications 
 </span>
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;"> 
+- Experiment 0 ➝ Due Date: October 3, 2025 (Friday), 11:59 PM. [Click here to submit Experiment 0](LINK_FOR_EXPERIMENT_0)
+</span>
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;"> 
+- Experiments 1–4 ➝ Due Date: October 3, 2025 (Friday), 11:59 PM. [Click here to submit Experiments 1–4](LINK_FOR_EXPERIMENT_1-4)
+</span>
+
 
 <style>
 @keyframes blinker {
