@@ -1,27 +1,28 @@
 # 🔔 Notifications
 
-> **Last Updated:** 25 August 2025  
-> Stay updated! Check this section regularly for course-related announcements.
+> **Semester:** July-December 2025
 
-## 📢 Current Announcements
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Final Report Submission (Experiment 0 to 6) ➝ Due Date: November 15, 2025 (Saturday), 11:59 PM. - [Click here to submit your final report](https://forms.gle/CdMBMyHNnh1hXuiy5)
+</span>
 
-- **Stage 1 Presentation / Assignment 1 Submission**  
- All students must **submit their Stage 1 Presentation** (Experiments 1–4: Visual Survey of Defects) by ~~September 01, 2025 (Monday) 11:59 PM~~ ➝ **September 15, 2025 (Monday) 11:59 PM** – [Click here for guidelines](https://gndec-yjs.github.io/PAL/Contents/Guidelines.html)
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 To download final report template: [Click Here](Final_Report_Template_(LPECE-102).docx)
+</span>
 
-Late submissions **will not be accepted**, so plan accordingly.  
-Ensure all photographs are **properly captured, labelled, captioned, and numbered**, and the presentation is **typed**.
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Experiment 5 ➝ Due Date: November 13, 2025 (Thursday), 11:59 PM. - [Click here to submit Experiment 6](https://forms.gle/u2JDAjJLi1FdJRVEA)
+</span>
 
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Experiment 6 ➝ Due Date: <s>November 2, 2025 (Sunday), 11:59 PM</s>  ➝ <u>November 07, 2025 (Friday), 11:59 PM</u>.  - [Click here to submit Experiment 6](https://forms.gle/nXCWSxFoGWHRwT2AA)
+</span>  
 
----
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Experiments 1–4 ➝ Due Date: October 3, 2025 (Friday), 11:59 PM. - [Click here to submit Experiments 1–4](https://forms.gle/d9Akfj8wJB4F47pE8)
+</span>
 
-### 📅 Upcoming Deadlines
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Experiment 0 ➝ Due Date: October 3, 2025 (Friday), 11:59 PM.  - [Click here to submit Experiment 0](https://forms.gle/Zypd8xLm1s4rauiv6)
+</span>  
 
-| Task                                   | Due Date                               | Link |
-|---------------------------------------|----------------------------------------|------|
-| Stage 1 Presentation   | 01 September 2025 (Monday) 11:59 PM    | [Click here for guidelines](https://gndec-yjs.github.io/PAL/Contents/Guidelines.html) |
-| Assignment 1 | XX September 2025 (DAY) 11:59 PM | [Submit Here](#) |
-
-
----
-
-📝 *Note:* All updates, changes, and additional deadlines will be posted here. Students are advised to check this page **regularly**.
