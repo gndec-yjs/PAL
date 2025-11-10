@@ -1,6 +1,6 @@
 # Problem Analysis Laboratory _(Structural Engineering)_
 
-| **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[IS Codes](Contents/Codes.md)** | **[Contact](Contents/Contact.md)** | 
+| **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Notifications (July-Dec 2025)](Contents/Notifications)** | **[IS Codes](Contents/Codes.md)** | **[Contact](Contents/Contact.md)** | 
 
 **[Notifications](https://gndec-yjs.github.io/PAL/)**
 
