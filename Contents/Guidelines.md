@@ -28,6 +28,7 @@ Follow a structured workflow for all experiments:
 
 | No. | Title | Link |
 | --- | ----- | ---- |
+| 0 | Defect Mapping and Condition Survey of GNDEC Campus Buildings | [Experiment_0.md](Experiment_0.md) |
 | 1 | Identification and Analysis of Cracks | [Experiment_1.md](Experiment_1.md) |
 | 2 | Corrosion of RC Components | [Experiment_2.md](Experiment_2.md) |
 | 3 | Study of Deflection in Members | [Experiment_3.md](Experiment_3.md) |
