@@ -8,14 +8,15 @@ This page provides detailed instructions on **how to document, format, and submi
 
 Students must complete **6 experiments** in sequence. Observations, analysis, treatment strategies, and results must be documented in their reports. Properly captured, numbered, labelled, and captioned photographs/screenshots are required wherever applicable.
 
-| Experiment No. | Title                                                          | Link                                |
-| -------------- | -------------------------------------------------------------- | ----------------------------------- |
-| 1              | Identification and Analysis of Cracks in Buildings             | [Experiment\_1.md](Experiment_1.md) |
-| 2              | Corrosion of RC Components: Observation and Remedial Measures  | [Experiment\_2.md](Experiment_2.md) |
-| 3              | Study of Deflection in Structural Members                      | [Experiment\_3.md](Experiment_3.md) |
-| 4              | Settlement of Structures: Causes and Control Measures          | [Experiment\_4.md](Experiment_4.md) |
-| 5              | Structural Health Monitoring and Non-Destructive Testing (NDT) | [Experiment\_5.md](Experiment_5.md) |
-| 6              | Non-Linear Analysis of RC Structural Components using ATENA    | [Experiment\_6.md](Experiment_6.md) |
+| Experiment No. | Title | Link |
+| --- | ----- | ---- |
+| 0 | Defect Mapping and Condition Survey of GNDEC Campus Buildings | [Experiment_0.md](Experiment_0.md) |
+| 1 | Identification and Analysis of Cracks | [Experiment_1.md](Experiment_1.md) |
+| 2 | Corrosion of RC Components | [Experiment_2.md](Experiment_2.md) |
+| 3 | Study of Deflection in Members | [Experiment_3.md](Experiment_3.md) |
+| 4 | Settlement of Structures | [Experiment_4.md](Experiment_4.md) |
+| 5 | SHM & NDT Techniques | [Experiment_5.md](Experiment_5.md) |
+| 6 | Non-linear Analysis using ATENA | [Experiment_6.md](Experiment_6.md) |
 
 ---
 
