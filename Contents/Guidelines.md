@@ -21,7 +21,7 @@ Follow a structured workflow for all experiments:
 - PDF submission via **GitHub repository**  
 - Naming convention: `Experiment_X_YourName_RollNo.pdf`  
 
-### **To View Full Report Guidelines:** [**Click Here**](Report_Guidelines.md)
+#### **To View Full Report Guidelines:** [**Click Here**](Report_Guidelines.md)
 #### **To download final report template: [Click Here](Final_Report_Template_(LPECE-102).docx)**
 
 ## 3. Experiments
