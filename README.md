@@ -4,6 +4,9 @@
 
 **[Notifications](https://gndec-yjs.github.io/PAL/)**
 
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Final Report Submission (Experiment 0 to 6) ➝ Due Date: November 15, 2025 (Saturday), 11:59 PM. - [Click here to submit your final report](https://forms.gle/CdMBMyHNnh1hXuiy5)
+</span>
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 🚨 To download final report template: [Click Here](Final_Report_Template_(LPECE-102).docx)
