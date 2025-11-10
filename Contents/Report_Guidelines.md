@@ -2,6 +2,8 @@
 
 This page provides detailed instructions on **how to document, format, and submit reports** for the Problem Analysis Laboratory (LPECE-102).
 
+## [Click Here to download final report template](Final_Report_Template_(LPECE-102).docx)
+
 ## 1. Experiment List & Links
 
 Students must complete **6 experiments** in sequence. Observations, analysis, treatment strategies, and results must be documented in their reports. Properly captured, numbered, labelled, and captioned photographs/screenshots are required wherever applicable.
