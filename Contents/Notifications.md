@@ -13,7 +13,7 @@
 </style>  
 
 
-> **Old Notifications** 
+> **Old Notifications:**  
 > **[July-December 2025](Notifications_July-Dec_2025.md)**
 
 
