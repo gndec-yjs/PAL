@@ -6,6 +6,12 @@
 🚨 [All Notifications](Contents/Notifications)
 </span>
 
+<style>
+@keyframes blinker {
+  50% { opacity: 0; }
+}
+</style> 
+
 ![PAL](Contents/Images/PAL.png)
 
 ---
