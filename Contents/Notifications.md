@@ -13,8 +13,8 @@
 </style>  
 
 
-> **Semester:** July-December 2025  
-> **[Old Notifications (July-December 2025)](Notifications_July-Dec_2025.md)**
+> **Old Notifications** 
+> **[July-December 2025](Notifications_July-Dec_2025.md)**
 
 
 
