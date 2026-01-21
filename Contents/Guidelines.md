@@ -27,15 +27,15 @@ Follow a structured workflow for all experiments:
 
 ## 3. Experiments
 
-| No. | Title | Link |
+| No. | Title | Manual |
 | --- | ----- | ---- |
-| 0 | Defect Mapping and Condition Survey of GNDEC Campus Buildings | [Experiment_0.md](Experiment_0.md) |
-| 1 | Identification and Analysis of Cracks | [Experiment_1.md](Experiment_1.md) |
-| 2 | Corrosion of RC Components | [Experiment_2.md](Experiment_2.md) |
-| 3 | Study of Deflection in Members | [Experiment_3.md](Experiment_3.md) |
-| 4 | Settlement of Structures | [Experiment_4.md](Experiment_4.md) |
-| 5 | SHM & NDT Techniques | [Experiment_5.md](Experiment_5.md) |
-| 6 | Non-linear Analysis using ATENA | [Experiment_6.md](Experiment_6.md) |
+| 0 | Defect Mapping and Condition Survey of GNDEC Campus Buildings | [Experiment 0](Experiment_0.md) |
+| 1 | Identification and Analysis of Cracks | [Experiment 1](Experiment_1.md) |
+| 2 | Corrosion of RC Components | [Experiment 2](Experiment_2.md) |
+| 3 | Study of Deflection in Members | [Experiment 3](Experiment_3.md) |
+| 4 | Settlement of Structures | [Experiment 4](Experiment_4.md) |
+| 5 | SHM & NDT Techniques | [Experiment 5](Experiment_5.md) |
+| 6 | Non-linear Analysis using ATENA | [Experiment 6](Experiment_6.md) |
 
 
 ## 4. Notes
