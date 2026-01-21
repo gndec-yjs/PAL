@@ -6,7 +6,7 @@ This page provides **key links and instructions** for students.
 
 Follow a structured workflow for all experiments:
 
-- **Stage 1 (Experiments 0):** Defect Mapping and Condition Survey of GNDEC Campus Buildings
+- **Stage 1 (Experiment 0):** Defect Mapping and Condition Survey of GNDEC Campus Buildings
 - **Stage 2 (Experiments 1–4):** Visual survey of defects (cracks, corrosion, deflection, settlement)  
 - **Stage 3 (Experiment 5):** Structural Health Monitoring & NDT practice  
 - **Stage 4 (Experiment 6):** Non-linear analysis using ATENA  
