@@ -3,7 +3,7 @@
 ## **Semester:** Jan-June 2026
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
-🚨 Final Report Submission (Experiment 0 to 6) ➝ Due Date: May 08, 2025 (Saturday), 11:59 PM. - [Click here to submit your final report](https://forms.gle/McUVfWBVwVBcD5MQ6)
+🚨 Final Report Submission (Experiment 0 to 6) ➝ Due Date: May 09, 2025 (Saturday), 11:59 PM. - [Click here to submit your final report](https://forms.gle/McUVfWBVwVBcD5MQ6)
 </span>
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
