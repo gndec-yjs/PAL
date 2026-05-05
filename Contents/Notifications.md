@@ -7,7 +7,7 @@
 </span>
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
-🚨 Experiment 5 ➝ Due Date: May 06, 2026 (Wednesday), 11:59 PM.  - [Click here to submit Experiment 6](https://forms.gle/BnGWgmoDUSYUxaqd6)
+🚨 Experiment 6 ➝ Due Date: May 06, 2026 (Wednesday), 11:59 PM.  - [Click here to submit Experiment 6](https://forms.gle/BnGWgmoDUSYUxaqd6)
 </span> 
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
