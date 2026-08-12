@@ -14,8 +14,8 @@
 
 
 > **Old Notifications:**  
-> **[July-Dec 2025](Notifications_July-Dec_2025.md)**
-> **[Jan-June 2026](Notifications_Jan-June_2026.md)**
+- **[July-Dec 2025](Notifications_July-Dec_2025.md)**
+- **[Jan-June 2026](Notifications_Jan-June_2026.md)**
 
 
 
