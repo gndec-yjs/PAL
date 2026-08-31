@@ -40,7 +40,7 @@ Deflection in structural members refers to the displacement of a member under lo
 | 1       | RCC Beam (mid-span) | 4.5 m     | \~15 mm                       | Overloading, creep     | Sagging, plaster cracks            | External prestressing, section strengthening |
 | 2       | Slab panel          | 3 m × 4 m | \~10 mm                       | Insufficient thickness | Ponding of water, tile cracks      | Increase slab depth (future), add topping    |
 
-*Students must fill a minimum of 5–6 entries with **properly captured, labelled, numbered, and captioned photographs** attached in their report.*
+*Students must fill a minimum of 10-12 entries with **properly captured, labelled, numbered, and captioned photographs** attached in their report.*
 
 ## 6. Analysis *(Sample – for reference only)*
 
