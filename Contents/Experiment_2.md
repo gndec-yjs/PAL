@@ -45,7 +45,7 @@ To study and identify the occurrence of corrosion in reinforced concrete (RC) co
 | 4.      | Staircase landing             | Localized corrosion patches             | Moderate            | Inadequate cover, exposure to wetting and drying cycles | Epoxy grouting, protective coating                                                          |
 | 5.      | Retaining wall face           | Rust streaks along vertical cracks      | Severe              | Aggressive soil, poor drainage                          | Provide drainage, use cathodic protection, re-concrete damaged portion                      |
 
-**Note:** Students must fill a **minimum of 5–6 entries** with photographs attached in their report. The photographs should be **properly captured, numbered, labeled, and captioned** for clarity.
+**Note:** Students must fill a **minimum of 10-12 entries** with photographs attached in their report. The photographs should be **properly captured, numbered, labeled, and captioned** for clarity.
 
 ## 6. Analysis *(Sample – for reference only)*
 
