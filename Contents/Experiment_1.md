@@ -37,7 +37,7 @@ Students are encouraged to explore case studies from research literature to unde
 | 1       | RCC Beam near support       | Flexural Crack  | Vertical    | \~2 mm                 | Overloading, inadequate reinforcement | Epoxy grouting, load reduction, strengthening |
 | 2       | External wall               | Shrinkage Crack | Diagonal    | \~1 mm                 | Temperature variation, poor curing    | Sealant application, improved curing          |
 
-*Students must fill a minimum of 5–6 entries with **properly captured, labelled, numbered, and captioned photographs** attached in their report.*
+*Students must fill a minimum of 10-12 entries with **properly captured, labelled, numbered, and captioned photographs** attached in their report.*
 
 ## 6. Analysis *(Sample – for reference only)*
 
