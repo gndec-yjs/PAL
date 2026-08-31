@@ -46,7 +46,7 @@ Settlement refers to the downward movement of a structure or its components due 
 | 3       | Slab / flooring     | Uniform            | Mild              | Creep and consolidation     | Slight unevenness   | Re-leveling, monitoring                  |
 | 4       | Retaining wall      | Differential       | Moderate          | Soil erosion, poor drainage | Wall tilting        | Improve drainage, partial reconstruction |
 
-*Students must fill a minimum of 5–6 entries with **properly captured, numbered, labelled, and captioned photographs** attached in their report.*
+*Students must fill a minimum of 10-12 entries with **properly captured, numbered, labelled, and captioned photographs** attached in their report.*
 
 ## 6. Analysis *(Sample – for reference only)*
 
