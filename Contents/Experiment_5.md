@@ -64,21 +64,14 @@ To perform structural health monitoring and non-destructive testing (NDT) on RC 
 * Correlate results from different NDT methods for validation.
 * Include insights from at least one relevant case study in literature.
 
-## 7. Treatment Strategies *(Sample – for reference only)*
-
-* Surface repair or patching for localized defects.
-* Corrosion inhibitors or protective coatings for reinforcement.
-* Structural strengthening using external supports or fiber-reinforced polymers.
-* Implement preventive monitoring for long-term structural health.
-
-## 8. Results *(Sample – for reference only)*
+## 7. Results *(Sample – for reference only)*
 
 * Defects detected and severity assessment.
 * Recommendations for remediation.
 * Preventive maintenance suggestions.
 * Reference to IS codes and literature for validation.
 
-## 9. References / Suggested Reading
+## 8. References / Suggested Reading
 
 - Rebound Hammer Test – IS 516 (Part 5/Sec 4): 2020  
 - Ultrasonic Pulse Velocity (UPV) Test – IS 516 (Part 5/Sec 1): 2018  
@@ -88,7 +81,7 @@ To perform structural health monitoring and non-destructive testing (NDT) on RC 
   
 *Note:* Students should include additional references or manuals relevant to the NDT methods used in their experiments, and consult literature/case studies for deeper understanding.
 
-## 10. Viva Questions *(Sample: for reference only - Do not write in the final report)*
+## 9. Viva Questions *(Sample: for reference only - Do not write in the final report)*
 
 1. What is structural health monitoring, and why is it important?
 2. How does the rebound hammer test indicate concrete strength?
