@@ -1,9 +1,9 @@
 # Problem Analysis Laboratory _(Structural Engineering)_
 
-| **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Notifications](Contents/Notifications)** | **[IS Codes](Contents/Codes.md)** | **[Contact](Contents/Contact.md)** | 
+| **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Notifications](Contents/Notifications.md)** | **[IS Codes](Contents/Codes.md)** | **[Contact](Contents/Contact.md)** | 
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
-🚨 [All Notifications](Contents/Notifications)
+🚨 [All Notifications](Contents/Notifications.md)
 </span>
 
 <style>
