@@ -3,6 +3,10 @@
 ## **Semester:** Jan-June 2026
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Experiment 0-5 ➝ Due Date: October 17, 2026 (Saturday), 11:59 PM.  - [Click here to submit Experiment 0-5](https://forms.gle/kFFHjxDr8KP8bPgX8)
+</span> 
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 🚨 Experiment 5 ➝ Due Date: October 02, 2026 (Friday), 11:59 PM.  - [Click here to submit Experiment 5](https://forms.gle/hNDQmdq9Zh5DxDuL6)
 </span> 
 
