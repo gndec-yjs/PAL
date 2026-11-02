@@ -6,7 +6,7 @@
 🚨 Final Report Submission (Experiment 0 to 6) ➝ Due Date: November 13, 2026 (Friday), 11:59 PM. - [Click here to submit your final report](https://forms.gle/KcDinVrnWhDsjbJQA)
 </span>
 
-#### **To download final report template: [Click Here](Guidelines/Final_Report_Template_(LPECE-102).docx)**
+> #### **To download final report template: [Click Here](Final_Report_Template_(LPECE-102).docx)**
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 🚨 Experiment 6 ➝ Due Date: November 6, 2026 (Friday, 11:59 PM.  - [Click here to submit Experiment 6](https://forms.gle/BGAMQPjyRuf294Dq9)
