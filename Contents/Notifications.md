@@ -3,6 +3,20 @@
 ## **Semester:** Jan-June 2026
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Final Report Submission (Experiment 0 to 6) ➝ Due Date: November 13, 2026 (Friday), 11:59 PM. - [Click here to submit your final report](https://forms.gle/KcDinVrnWhDsjbJQA)
+</span>
+
+#### **To download final report template: [Click Here](Guidelines/Final_Report_Template_(LPECE-102).docx)**
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Experiment 6 ➝ Due Date: November 6, 2026 (Friday, 11:59 PM.  - [Click here to submit Experiment 6](https://forms.gle/BGAMQPjyRuf294Dq9)
+</span> 
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Experiment 6 ➝ Due Date: November 6, 2026 (Friday, 11:59 PM.  - [Click here to submit Experiment 6](https://forms.gle/BGAMQPjyRuf294Dq9)
+</span> 
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 🚨 Experiment 0-5 ➝ Due Date: October 17, 2026 (Saturday), 11:59 PM.  - [Click here to submit Experiment 0-5](https://forms.gle/kFFHjxDr8KP8bPgX8)
 </span> 
 
